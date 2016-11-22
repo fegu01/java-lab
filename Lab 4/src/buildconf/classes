@@ -1,0 +1,2 @@
+-cp ../../../jedis/jedis-2.8.1.jar: ./acamo/ 
+Starter.java
